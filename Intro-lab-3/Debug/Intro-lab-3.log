@@ -1,0 +1,4 @@
+﻿  Task3.cpp
+d:\github\c++ intro\intro-lab-3\intro-lab-3\task3.cpp(35): warning C4018: '<': signed/unsigned mismatch
+d:\github\c++ intro\intro-lab-3\intro-lab-3\task3.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  Intro-lab-3.vcxproj -> D:\github\C++ Intro\Intro-lab-3\Debug\Intro-lab-3.exe
